@@ -1,0 +1,8 @@
+<div class="recent-products">
+    <h2>Produtos Recentes</h2>
+    <ul>
+        <?php foreach ($block->getRecentProducts() as $product): ?>
+            <li><?php echo $product->getName(); ?></li>
+        <?php endforeach; ?>
+    </ul>
+</div>
