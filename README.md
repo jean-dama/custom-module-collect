@@ -8,7 +8,7 @@ Arquivos XML module.xml:
 
 Esse arquivo XML definem a configuração do sistema para o módulo.
 
-Arquivos de Layout (view/frontend/layout/customtext_index_index.xml):
+Arquivos de Layout xml:
 
 Este arquivo de layout XML define como o bloco personalizado.
 
